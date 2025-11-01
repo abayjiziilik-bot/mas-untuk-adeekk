@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dari Mas untuk Adeekkk 🐼💖</title>
+  <style>
+    body {
+      background: linear-gradient(180deg, #ffe6f2, #ffffff);
+      font-family: "Poppins", sans-serif;
+      color: #333;
+      text-align: center;
+      padding: 30px;
+    }
+    h1 {
+      color: #ff69b4;
+      font-size: 2em;
+    }
+    p {
+      font-size: 1.1em;
+      line-height: 1.6;
+      max-width: 600px;
+      margin: 10px auto;
+    }
+    .panda {
+      width: 180px;
+      margin: 20px auto;
+      display: block;
+    }
+    .heart {
+      font-size: 1.5em;
+      color: #ff6699;
+      animation: beat 1s infinite;
+    }
+    @keyframes beat {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.2); }
+    }
+  </style>
+</head>
+<body>
+  <h1>Dari Mas untuk Adeekkk 🐼💖</h1>
+  <img src="https://i.ibb.co/7VYjBfB/panda-cute.png" alt="Panda Lucu" class="panda">
+  <p>Hai Adeekkk 🥺💞</p>
+  <p>Hari ini spesial banget, karena dunia pernah dikasih hadiah paling indah — yaitu <b>kamu</b>.</p>
+  <p>Mas tau mungkin kado Mas nggak mewah, tapi di setiap kata ini ada doa dan rasa sayang yang nggak bisa Mas ucapin langsung.</p>
+  <p>Terima kasih ya, Adeekkk, udah selalu sabar dan ngertiin Mas. Kamu itu kayak rumah — tempat paling nyaman buat hati Mas pulang 🏡💗</p>
+  <p>Semoga di hari ulang tahunmu ini, semua hal indah datang ke kamu… kebahagiaan, ketenangan, dan cinta yang nggak pernah habis.</p>
+  <p><b>Selamat ulang tahun, Adeekkk kesayangan Mas 💐</b></p>
+  <p>Mas sayang banget sama kamu <span class="heart">💖</span></p>
+
+  <!-- Lagu Al Ghazali - Kesayanganku -->
+  <iframe width="0" height="0" src="https://www.youtube.com/embed/mIjK3hZl5yA?autoplay=1&loop=1&playlist=mIjK3hZl5yA" frameborder="0" allow="autoplay"></iframe>
+</body>
+</html>
